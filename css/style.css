@@ -1,10 +1,20 @@
+
 #navbarNav{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 .jumbotron {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.img-fluid {
+    border-radius: 50%;
+    height: 30em;
+}
+
+.row {
+    margin-top: 20px;
 }
