@@ -1,25 +1,9 @@
-# My Portfolio Website
+# Bootstrap Portfolio
 
 ## Description
 
-Ths is a portfolio website that uses Bootstrap elements such as navbar, jumbotron, grid and cards. The webpage includes an about me section, work portfolio, skills acquired and contact form. It was created to showcase my skills and talents to prospective employers.
+Ths project was created to enhance my Boostrap skills. It uses Bootstrap elements such as navbar, jumbotron, grid and cards and is also responsive to any screen size. 
 
-Link: https://margaret-alice.github.io/Bootstrap-Portfolio/
-
-## Installation
-
-N/A
-
-## Usage
-
-This website is to be used by prospective employers who will like to see my portfolio. 
+Link: https://margaretalice-a.github.io/Bootstrap-Portfolio/
 
 ![Webpage layout screenshot](images/screenshot.png)
-
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
